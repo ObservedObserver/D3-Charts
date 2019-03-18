@@ -1,0 +1,20 @@
+{
+  "name": "D3-Charts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/d3": "^5.7.1",
+    "d3": "^5.9.2"
+  },
+  "devDependencies": {
+    "@types/d3": "5.7.1",
+    "typescript": "^3.3.3333"
+  }
+}
